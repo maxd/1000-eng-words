@@ -1,5 +1,7 @@
 # Install
 
+![1000-eng-words](http://maxd.github.io/1000-eng-words/screenshot-01.png)
+
 1. Enable plugin in `~/.zshrc`:
 
 ~~~
