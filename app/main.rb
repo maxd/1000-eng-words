@@ -93,8 +93,8 @@ class Application
     end
 
     if @options[:color]
-      yellow = "\e[33;40m"
-      red = "\e[31;40m"
+      yellow = "\e[33m"
+      red = "\e[31m"
       reset = "\e[0m"
 
       print "#{yellow}#{word}#{reset} #{yellow}#{transcription}#{reset} #{red}-#{reset} #{yellow}#{translation}#{reset}"
