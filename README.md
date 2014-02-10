@@ -1,5 +1,5 @@
 <p align="center">
-![1000-eng-words](http://maxd.github.io/1000-eng-words/screenshot-01.png)
+    <img src="http://maxd.github.io/1000-eng-words/screenshot-01.png" alt="1000-eng-words"/>
 </p>
 
 # Install to oh-my-zsh
